@@ -1,6 +1,6 @@
 {
   "name": "Python-Django-SQLite",
-  "description": "Python 3.7 / Django 3.1.7 / Sqlite <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/django-sqlite-todo-test1/blob/master/README.md' target='_blank'>Todo 範本說明</a><hr /><ul><li><strong>v2.0</strong>更新CI自動化腳本</li></ul>",
+  "description": "Python 3.7 / Django 3.1.7 / Sqlite <a class='el-link el-link--primary' href='https://github.com/iiidevops-v2-templates/ci-django-sqlite-todo-test1/blob/master/README.md' target='_blank'>Todo 範本說明</a><hr /><ul><li><strong>v2.0</strong>更新CI自動化腳本</li></ul>",
   "arguments": [
   ]
 }

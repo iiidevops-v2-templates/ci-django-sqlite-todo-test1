@@ -37,3 +37,4 @@ $ git clone https://github.com/CodAffection/Django-ToDo-App-with-PostgreSQL.git
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Nnoxz9JGdLU
 " target="_blank"><img src="http://img.youtube.com/vi/Nnoxz9JGdLU/0.jpg" 
 alt="Video Tutorial for Django To-Do App with PostgreSQL" width="500" height="400" border="10" /></a>
+...
